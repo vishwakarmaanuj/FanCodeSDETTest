@@ -10,7 +10,7 @@ Maven Build tool
 Eclipse or IntelliJ any Integrated Development Environment (IDE) 💻
 Getting Started ▶️
 Clone the repository on local machine
-git clone https://github.com/Anic10x3/FancodeAssignmentTest.git
+git clone git@github.com:vishwakarmaanuj/FanCodeSDETTest.git
 Open the project in your preferred IDE
 
 Build the project using Maven to resolve the dependencies
